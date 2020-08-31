@@ -1,3 +1,11 @@
+### custom ignored files
+
+.idea/
+
+
+
+### Git gitignore template for python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
